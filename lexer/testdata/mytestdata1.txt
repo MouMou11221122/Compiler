@@ -1,0 +1,21 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+begin 
+ declare X;
+ 	declare Y;
+		declare Z;
+			declare W as INTEGER;
+ X:= 3.100000000001;
+ Y:= 0.;
+ Z:= 123.e-5600;
+ W:= 0;
+   PrInT("abcde fgh ij
+	klm no
+		pq\n");
+
+ Y:=	0.006 *	B *B +	C/  D   - 124.345E666 +  0.345E-06;
+ Y	:= 111.233E0234
+end 
+  
+    
+ 

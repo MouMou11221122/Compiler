@@ -1,0 +1,25 @@
+%%the beginning of an test data for
+%% gcc gdb g++ gnu
+%%arm a57 a73 a53 x86-64 IA32 IA64 trustzone nvlink
+%%rbtree treap skiplist fabonacci heap kmp
+%% asd      ksaml   objdump dsd
+
+
+Micro/Ex
+
+Program moumou123
+Begin 
+ declare I as integer;
+ declare A,B,C,D, LLL[100] as float;
+ 
+ FOR (I:=1 TO 100)
+	A:=-LLL[I]+B*D;
+ ENDFOR
+
+ IF (A>=100000.0) THEN
+     print(A+3.14);
+ ELSE
+	  print(2,1.4);
+ENDIF
+
+End

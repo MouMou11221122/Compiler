@@ -1,0 +1,19 @@
+%%%%%%%%%%%%abc%%%%%%%%%%%%%%%%%%%def
+
+begin 
+ declare X;
+ 	declare Y;
+		declare Z;
+			declare W as INTEGER;
+ X:= 0.E0;
+ Y:= 0.01e-100;
+ Z:= 0.1E-900000;
+ W:= 0;
+ X := 0.;
+   Print("thank you teacher, have a nice day\n");
+ Y:=	0.0666   * 1240.345E-666000 +  0.;
+ W:= 012345;
+end 
+  
+    
+ 

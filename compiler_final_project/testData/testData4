@@ -1,0 +1,11 @@
+Micro/Ex
+Program moumou123
+Begin 
+ declare I as integer;
+ declare A,B,C,D, LLL[100] as float;
+ 
+ FOR (I:=1 TO 100)
+	A:=-LLL[I]+B*D;
+ ENDFOR
+
+End
